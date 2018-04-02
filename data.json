@@ -1,0 +1,50 @@
+{
+  "career":{
+    "info":"Seeking Challenging career in  Sector  to get a position of responsibilty, using my professional skill and efficency to communicate my ideas and views and commit my self for achieving organizational objectives with the team effort and my positive attitude and performance "
+},
+"education":
+[
+  {
+    "degree":"S.S.C",
+    "school":"GGHS",
+    "data":["2013","90%"]
+  },
+  {
+    "degree":"Intermediate",
+    "school":"Vasavi Junior College",
+    "data":["2013-15","92%"]
+
+  },
+  {
+    "degree":"BTech(CSE)",
+    "school":"G.Pullaiah College Of Engineering And Technology",
+    "data":["2015-19","75%"]
+  }
+],
+"skills":[
+  {
+    "name":"languages",
+    "info":["R","Java","Python","c#","c"]
+  },
+  {
+    "name":"operating system",
+    "info":["win-10","Fedora","redHat","ubuntu"]
+  },
+  {
+    "name":"Data Bases",
+    "info":["Mysql","Oracle","mongoDB","PDO"]
+  },
+  {
+    "name":"Web Technologies",
+    "info":["Javascript","HTML","CSS"]
+  },
+  {
+    "name":"Framework",
+    "info":[".Net","Bootstrap"]
+  },
+  {
+    "name":"Libraries",
+    "info":["Jquery"]
+  }
+]
+}
